@@ -2,7 +2,9 @@
 layout.txt
 
 #data files are too large to be tracked in git, and are not needed for development
-data/
+data/accepted_2007_to_2018q4.csv/
+data/accepted_2007_to_2018q4.csv.gz
+processed_loan_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
